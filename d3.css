@@ -1,0 +1,13 @@
+h1{ color: rgb(119, 93, 190);; text-align:center; }
+ol{color: rgb(19, 39, 44);}
+.container{
+    color: blue;
+    width: 80%;
+    margin: auto;
+    overflow: hidden;}   
+#forparg{
+        color: rgb(188, 188, 190);
+        background-color: rgb(159, 168, 150);
+        font-size:120%;
+        text-align: left;
+        background-image:url(u.jpg); }

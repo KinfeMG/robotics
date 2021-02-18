@@ -1,0 +1,18 @@
+h1{color: rgb(73, 73, 163); text-align: center;}
+h2{color: rgb(73, 73, 163);}
+p{ color: rgb(73, 73, 163);}
+ul{color: rgb(73, 73, 163);}
+.container{
+    color: blue;
+    width: 80%;
+    margin: auto;
+    overflow: hidden;}
+    #forparg{
+        color: rgb(73, 73, 163);
+        background-color: rgb(246,248, 244);
+        font-size:140%;
+        text-align:center;
+        background-image:url(k.jpg); }
+.par2{color: chocolate;
+font-weight: bold;}
+/*this is comment*/
